@@ -1,0 +1,1 @@
+Wprawki asemblerowe
